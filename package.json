@@ -1,0 +1,15 @@
+{
+  "name": "lambda-qe",
+  "version": "1.0.0",
+  "description": "sample lambda function using QE",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Brant",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.6.2",
+    "mongodb-client-encryption": "^6.0.1"
+  }
+}
